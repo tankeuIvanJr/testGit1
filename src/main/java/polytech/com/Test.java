@@ -1,7 +1,7 @@
 /*
     Commentaires
 */
-package com.polytech;
+package polytech.com;
 
 import java.util.Scanner;
 
