@@ -1,3 +1,6 @@
+/*
+    Commentaires
+*/
 package com.polytech;
 
 public class Test{
