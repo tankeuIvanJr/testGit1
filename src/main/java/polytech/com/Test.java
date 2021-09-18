@@ -7,7 +7,11 @@ import java.util.Scanner;
 
 public class Test {
     public static void main(String[] args) {
+
         System.out.println("*****Test de nombre Premier*****");
+        System.out.println("Hello dev tankeuIvanJr");
+        System.out.println("Test Nombre Premier");
+
         while (true) {
             System.out.println("Entrer un nombre :");
             int nombre = new Scanner(System.in).nextInt();
@@ -20,9 +24,9 @@ public class Test {
             }
 
             if (d == 1)
-                System.out.println("Premier\n");
+                System.out.println("est Premier\n");
             else
-                System.out.println("Pas premier\n");
+                System.out.println("N'est pas premier\n");
         }
 
         // Le cas Zero n'est pas géré. OSF
