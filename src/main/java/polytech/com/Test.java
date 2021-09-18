@@ -7,9 +7,9 @@ import java.util.Scanner;
 
 public class Test {
     public static void main(String[] args) {
-        System.out.println("Test Nombre Premier");
+        System.out.println("*****Test de nombre Premier*****");
         while (true) {
-            System.out.println("Entrer un nombre");
+            System.out.println("Entrer un nombre :");
             int nombre = new Scanner(System.in).nextInt();
             int d = 1;
             for (int i = 1; i < (nombre); i++) {
