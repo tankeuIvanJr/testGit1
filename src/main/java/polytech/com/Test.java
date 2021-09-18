@@ -7,6 +7,7 @@ import java.util.Scanner;
 
 public class Test {
     public static void main(String[] args) {
+        System.out.println("Hello dev tankeuIvanJr");
         System.out.println("Test Nombre Premier");
         while (true) {
             System.out.println("Entrer un nombre");
