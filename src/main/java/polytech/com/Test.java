@@ -26,7 +26,7 @@ public class Test {
                 System.out.println("Pas premier\n");
         }
 
-        // Le cas Zero n'est pas géré. OSF
+        // Le cas Zero n'est pas géré. OSEF
     }
 
 }
